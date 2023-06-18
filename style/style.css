@@ -1,0 +1,23 @@
+.banner-img-1{
+    background-image: url('../image/carousel/1.jpg');
+    width: 100%;
+    height: 100vh;
+
+}
+.banner-img-2{
+    background-image: url('../image/carousel/2.jpg');
+    width: 100%;
+    height: 100vh;
+
+}
+.banner-img-3{
+    background-image: url('../image/carousel/3.jpg');
+    width: 100%;
+    height: 100vh;
+
+}
+ ul > li{
+    margin-right: 10px;
+    color: blue;
+    font-size: 20px;
+}
